@@ -82,10 +82,7 @@ analytics:
 author:
   name             : "Kourkeen Michaelian"
   avatar           : "profile.png"
-  bio              : "Professor, <a href="https://www.univ-grenoble-alpes.fr/" target="_blank>Université Grenoble Alpes</a>
-                      Director, <a href="https://phil-mem.org/" target="_blank>Centre for Philosophy of Memory</a>
-                      Member, <a href="https://iphig.univ-grenoble-alpes.fr/" target="_blank>Institut de philosophie de Grenoble</a>"
-                      Member, <a href="https://www.iufrance.fr/" target="_blank>Institut universitaire de France</a>"
+  bio              : "Professor, <a href="https://www.univ-grenoble-alpes.fr/" target="_blank>Université Grenoble Alpes</a>; Director, <a href="https://phil-mem.org/" target="_blank>Centre for Philosophy of Memory</a>; Member, <a href="https://iphig.univ-grenoble-alpes.fr/" target="_blank>Institut de philosophie de Grenoble</a>"; Member, <a href="https://www.iufrance.fr/" target="_blank>Institut universitaire de France</a>"
   location         : "Gières, France"
   employer         :
   pubmed           : 
