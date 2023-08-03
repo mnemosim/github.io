@@ -82,14 +82,16 @@ analytics:
 author:
   name             : "Kourkeen Michaelian"
   avatar           : "profile.png"
-  bio              : "Director, <a href="https://phil-mem.org/" target="_blank>Centre for Philosophy of Memory</a>
-  test"
-  location         : "Location"
+  bio              : "Professor, <a href="https://www.univ-grenoble-alpes.fr/" target="_blank>Université Grenoble Alpes</a>
+                      Director, <a href="https://phil-mem.org/" target="_blank>Centre for Philosophy of Memory</a>
+                      Member, <a href="https://iphig.univ-grenoble-alpes.fr/" target="_blank>Institut de philosophie de Grenoble</a>"
+                      Member, <a href="https://www.iufrance.fr/" target="_blank>Institut universitaire de France</a>"
+  location         : "Gières, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=3k4GmhQAAAAJ&hl=fr&oi=ao"
+  email            : "kourken.michaelian@univ-grenoble-alpes.fr"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5205-3046"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "mnemosim"
   vine             :
   weibo            :
   xing             :
