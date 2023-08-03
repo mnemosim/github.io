@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-CA"
-title                    : "Kourken Michaelian | personal website"
-title_separator          : "|"
-name                     : &name "Kourken Michaelian"
-description              : &description "Kourken Michaelian | personal website"
-url                      : https://mnemosim.github.io/
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
+title_separator          : "-"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/mnemosim/github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &mnemosim
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -73,22 +73,22 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Kourkeen Michaelian"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Professor, <a href="https://www.univ-grenoble-alpes.fr/" target="_blank>Université Grenoble Alpes</a>; Director, <a href="https://phil-mem.org/" target="_blank>Centre for Philosophy of Memory</a>; Member, <a href="https://iphig.univ-grenoble-alpes.fr/" target="_blank>Institut de philosophie de Grenoble</a>"; Member, <a href="https://www.iufrance.fr/" target="_blank>Institut universitaire de France</a>"
-  location         : "Gières, France"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=3k4GmhQAAAAJ&hl=fr&oi=ao"
-  email            : "kourken.michaelian@univ-grenoble-alpes.fr"
-  researchgate     :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5205-3046"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mnemosim"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
